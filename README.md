@@ -16,7 +16,7 @@ I specialize in backend development with a focus on Laravel with a MySQL setup a
 
 ### Currently learning
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=platic)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=plastic)
 ![PHP](https://img.shields.io/badge/-PHP-8993BE?logo=php&logoColor=white&style=plastic)
 
 While I am experienced with both Go and PHP, I am continually learning and improving my skills in these areas. Go offers a refreshing change from Laravel, while PHP's fundamentals help deepen my understanding and expertise within the Laravel framework.
