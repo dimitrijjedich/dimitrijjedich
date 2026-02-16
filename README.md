@@ -2,7 +2,7 @@
 
 Hi, I'm **Dimitrij Jedich** 👋  
 🔭 I’m currently working as **Software Engineer/Application Solutions Engineer**  
-🎯 Goals for 2025: **AWS Certified Cloud Practitioner**  
+🎯 Goals for 2026: **AWS Certified Cloud Practitioner**  
 
 ---
 
