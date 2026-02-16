@@ -2,7 +2,9 @@
 
 Hi, I'm **Dimitrij Jedich** 👋  
 🔭 I’m currently working as **Software -/Application Solutions Engineer**  
-🎯 Goals for 2026: **AWS Certified Cloud Practitioner**  
+🎯 Goals for 2026:
+- **AWS Certified Cloud Practitioner**
+- **Fullstack Application in production**  
 
 ```math
 \lim_{\text{sleep} \to 0}
