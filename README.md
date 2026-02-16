@@ -1,8 +1,9 @@
 ## 🧑‍💻 About Me
 
 Hi, I'm **Dimitrij Jedich** 👋  
-🔭 I’m currently working as **Software Engineer/Application Solutions Engineer**  
+🔭 I’m currently working as **Software -/Application Solutions Engineer**  
 🎯 Goals for 2026: **AWS Certified Cloud Practitioner**  
+
 
 ---
 
