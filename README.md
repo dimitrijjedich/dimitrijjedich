@@ -1,10 +1,23 @@
-## 🧑‍💻 About Me
-
-Hi, I'm **Dimitrij Jedich** 👋  
-🔭 I’m currently working as **Software Engineer/Application Solutions Engineer**  
-🎯 Goals for 2025: **AWS Certified Cloud Practitioner**  
+## Hi, I'm **Dimitrij Jedich** 👋
 
 ---
+
+```math
+{\Huge
+\int_{\text{idea}}^{\text{production}}
+\frac{\text{Passion} \cdot \text{Innovation} \cdot \text{TechnicalExcellence}}
+{\text{Learning} + \text{Focus}}
+\, dt
+= \varphi \text{Impact}
+}
+```
+
+---
+
+🔭 I’m currently working as **Software Engineer/Application Solutions Engineer**  
+🎯 Goals for 2026:
+- **AWS Certified Cloud Practitioner**
+- **Fullstack Application in production**
 
 ## 🛠️ My Tech Toolbox
 
@@ -20,11 +33,6 @@ I specialize in backend development with a focus on Laravel with a MySQL setup a
 ![PHP](https://img.shields.io/badge/-PHP-8993BE?logo=php&logoColor=white&style=plastic)
 
 While I am experienced with both Go and PHP, I am continually learning and improving my skills in these areas. Go offers a refreshing change from Laravel, while PHP's fundamentals help deepen my understanding and expertise within the Laravel framework.
-
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-4B8F8C?logo=inertia&logoColor=white&style=plastic)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic)
-
-Lately, I've been exploring Inertia.js and React as part of my journey into frontend development. My goal is to broaden my skills and get a better understanding of how frontend and backend interact, helping me improve communication and collaboration with frontend developers when planning, designing, and building APIs.
 
 ---
 
