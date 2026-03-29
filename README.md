@@ -4,7 +4,6 @@
 
 ```math
 {\Huge
-\lim_{\text{sleep} \to 0}
 \int_{\text{idea}}^{\text{production}}
 \frac{\text{Passion} \cdot \text{Innovation} \cdot \text{TechnicalExcellence}}
 {\text{Learning} + \text{Focus}}
