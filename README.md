@@ -14,8 +14,8 @@
 ```
 
 ---
-  
-🔭 I’m currently working as **Software -/Application Solutions Engineer**  
+
+🔭 I’m currently working as **Software Engineer/Application Solutions Engineer**  
 🎯 Goals for 2026:
 - **AWS Certified Cloud Practitioner**
 - **Fullstack Application in production**
